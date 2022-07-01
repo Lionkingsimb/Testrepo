@@ -1,0 +1,9 @@
+{
+	"name": "tempdatafactory-bhargava",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4fda7c69-74fa-4afb-8ca9-6cad01140697",
+		"tenantId": "314c9bc1-2a84-4eac-a8a2-ff0fa233476b"
+	}
+}
